@@ -1,2 +1,5 @@
-# exercise--tracker
-FreeCodeCamp API &amp; Microservices Project 4
+# Exercise Tracker REST API
+
+#### A microservice project, part of Free Code Camp's curriculum
+
+
